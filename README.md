@@ -11,5 +11,5 @@ There are three level of Plays
 1. Hard game ```Allowing 3 misses```
 ___
 
-This web app was developed with ```PHP``` and ```Javascipt```. 
+This web app was developed with ```PHP``` and ```Javascipt```. <br /> 
 To run this project localy on your machine, install any local server [wamp](https://www.wampserver.com/), [xamp](https://sourceforge.net/projects/xampp/)
