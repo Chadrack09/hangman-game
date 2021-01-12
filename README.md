@@ -1,4 +1,4 @@
-# Hangman Game
+# Hangman Game - PHP
 ```
 This game is a classic word game.
 The word to guess is represented by a row of dashes representing each letter of the word. 
@@ -11,6 +11,5 @@ There are three level of Plays
 1. Hard game ```Allowing 3 misses```
 ___
 
-This web app was developed with ```PHP``` and ```Javascipt```
-
+This web app was developed with ```PHP``` and ```Javascipt```. 
 To run this project localy on your machine, install any local server [wamp](https://www.wampserver.com/), [xamp](https://sourceforge.net/projects/xampp/)
