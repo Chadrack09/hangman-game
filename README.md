@@ -13,4 +13,4 @@ ___
 
 This web app was developed with ```PHP``` and ```Javascipt```
 
-To run this proect localy on your machine, install any local server (Wamp, Xamp) 
+To run this project localy on your machine, install any local server [wamp](https://www.wampserver.com/), [xamp](https://sourceforge.net/projects/xampp/)
