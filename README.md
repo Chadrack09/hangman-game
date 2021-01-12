@@ -1,7 +1,8 @@
 # Hangman Game
 ```
 This game is a classic word game.
-The word to guess is represented by a row of dashes representing each letter of the word. Slang word are not allowed in the game.
+The word to guess is represented by a row of dashes representing each letter of the word. 
+Slang word are not allowed in the game.
 ```
 There are three level of Plays
 
