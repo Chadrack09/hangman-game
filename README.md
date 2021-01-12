@@ -12,3 +12,4 @@ There are three level of Plays
 ___
 
 This web app was developed with ```PHP``` and ```Javascipt```
+To run this proect localy on your machine, install any local server (Wamp, Xamp) 
