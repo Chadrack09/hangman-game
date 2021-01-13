@@ -12,4 +12,4 @@ There are three level of Plays
 ___
 
 This web app was developed with ```PHP``` and ```Javascipt```. <br /> 
-To run this project localy on your machine, install any local server [wamp](https://www.wampserver.com/), [xamp](https://sourceforge.net/projects/xampp/)
+To run this project on your machine, install any local server [wamp](https://www.wampserver.com/), [xamp](https://sourceforge.net/projects/xampp/)
